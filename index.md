@@ -11,3 +11,7 @@ pip install yt-dlp
 yt-dlp -x --audio-format mp3 --audio-quality 0 “https://youtube.com/watch?v=YOUR_VIDEO_ID“
 
 NOTE: Make sure to use all hard quotes in step 3.
+
+COMMAND FOR PLAYLISTS:
+
+yt-dlp -x --audio-format mp3 --audio-quality 0 “https://youtube.com/playlist?list=YOUR_PLAYLIST_ID"
