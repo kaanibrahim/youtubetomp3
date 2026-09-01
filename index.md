@@ -1,12 +1,12 @@
----
-layout: home
-title: Home
----
 
-Welcome to my site. Replace this text with whatever you'd like visitors to see first.
+YOUTUBE TO MP3
 
-You can write in plain text or Markdown here — headings, **bold**, *italics*, lists, and links all work.
+**ON MAC**
 
-## About this page
+STEP 1: Make sure Python is installed
 
-This is the homepage (`index.md`). Anything you write here shows up at your site's root URL.
+STEP 2: Type this in the command line: pip install yt-dlp 
+
+STEP 3: Type this in the command line: yt-dlp -x --audio-format mp3 --audio-quality 0 “https://youtube.com/watch?v=YOUR_VIDEO_ID“
+
+NOTE: Make sure to use all hard quotes in step 3.
