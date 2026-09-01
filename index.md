@@ -1,6 +1,3 @@
-
-YOUTUBE TO MP3
-
 **ON MAC**
 
 **STEP 1**: Make sure Python is installed
