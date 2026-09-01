@@ -1,12 +1,1 @@
-title: YouTube to mp3
-description: >-
-theme: minima
 
-# Change this to your actual GitHub Pages URL once known, e.g.:
-# baseurl: "/my-repo-name"
-# url: "https://yourusername.github.io"
-baseurl: "/youtubetomp3"
-url: "https://kaanibrahim.github.io"
-
-plugins:
-  - jekyll-feed
