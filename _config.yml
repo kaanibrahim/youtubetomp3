@@ -1,0 +1,13 @@
+title: My Site
+description: >-
+  A simple site with text information, built with Jekyll and hosted on GitHub Pages.
+theme: minima
+
+# Change this to your actual GitHub Pages URL once known, e.g.:
+# baseurl: "/my-repo-name"
+# url: "https://yourusername.github.io"
+baseurl: ""
+url: ""
+
+plugins:
+  - jekyll-feed
